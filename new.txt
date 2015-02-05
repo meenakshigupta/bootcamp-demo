@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Hi from clone!!!1212212!
-=======
 Hi from clone!!!!
 I m Checking Clone
->>>>>>> c2ab61798849f10bee35e22b772ca06894ce195e
+Changed
