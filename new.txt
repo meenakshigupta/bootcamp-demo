@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-Hi from clone!!!!
-I m Checking Clone
-Changed
-=======
-Again Doing Changes !!!!
-
-
->>>>>>> 7e3f56bcd84e7c03ca7b7139ec4884b364a49948
