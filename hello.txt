@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 kya haal !!
 
 bahut badhiya h tu suna......
 
+=======
+This is for Cloning
+>>>>>>> 0301c88556cfaa5eb5ea939477ed7190882f8bb1
